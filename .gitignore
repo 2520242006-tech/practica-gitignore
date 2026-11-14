@@ -1,1 +1,5 @@
+
 # Archivo .gitignore de la práctica
+secreto.txt
+carpeta_privada/
+*.log
